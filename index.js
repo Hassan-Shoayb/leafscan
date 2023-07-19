@@ -79,7 +79,7 @@ predictButton.addEventListener("click", function() {
         loader.style.display = "none";
         overlay.style.display = "block";
         popup.style.display = "block";
-    }, 5000); // 5 seconds delay
+    }, 10000); // 5 seconds delay
 });
 
 
