@@ -2,14 +2,14 @@
 
 <!-- First Row -->
 <p align="center">
-  <img src="./disease/image1.JPG" width="400" alt="Image 1">
-  <img src="./disease/image2.JPG" width="400" alt="Image 2">
+  <img src="./disease/image1.JPG" width="100" alt="Image 1">
+  <img src="./disease/image2.JPG" width="100" alt="Image 2">
 </p>
 
 <!-- Second Row -->
 <p align="center">
-  <img src="./disease/image3.JPG" width="400" alt="Image 3">
-  <img src="./disease/image4.JPG" width="400" alt="Image 4">
+  <img src="./disease/image3.JPG" width="100" alt="Image 3">
+  <img src="./disease/image4.JPG" width="100" alt="Image 4">
 </p>
 
 
