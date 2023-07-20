@@ -31,6 +31,20 @@ To detect and classify tomato diseases using the web application, follow these s
 
 Try Different Images: You can repeat the process and analyze different images to see how our model performs on various tomato plant samples.
 
+## Model Training
+During the training process, the model goes through multiple epochs, where each epoch represents one complete iteration over the entire dataset. The training accuracy and validation accuracy both approach high values, indicating that the model has learned to perform well on the training data and generalize well to unseen validation data.
+
+<p align="center">
+<img src="./images/Acc.png" width="200" alt="Image 2">
+<img src="./images/Acc.png" width="200" alt="Image 2">
+</p>
+Overall, the training process shows a steady improvement in the model's performance. The model successfully learns to classify tomato diseases with high accuracy, reaching nearly 100% accuracy on the training data and over 97% accuracy on the validation data by the end of training.
+### Epoch 3/15
+* **Training Loss:** 0.00
+* **Training Accuracy:** 1.00
+* **Validation Loss:** 0.09
+* **Validation Accuracy:** 0.97
+
 ## Note
 The model's accuracy is influenced by the quality and composition of the images you upload. For the best results, provide clear images of tomato plants, preferably with high resolution and well-defined symptoms (if present).
 
