@@ -82,19 +82,6 @@ predictButton.addEventListener("click", async function() {
     popup.style.display = "block";
 });
 
-// Add event listener to the predict button
-predictButton.addEventListener("click", function() {
-
-    // Delay showing the popup window
-    setTimeout(function() {
-        // Hide the loader and show the popup and overlay
-        loader.style.display = "none";
-        overlay.style.display = "block";
-        popup.style.display = "block";
-    }, 3000); // 2 seconds delay
-});
-
-
 closeButton.addEventListener("click", function() {
     // Hide the popup and overlay
     popup.style.display = "none";
