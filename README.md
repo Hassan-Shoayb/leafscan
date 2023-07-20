@@ -40,9 +40,9 @@ To run this project, you will need the following:
 ## Setup
 To run leafscan locally, follow these steps:
 1. Clone this repository to your local machine using the following command:
-```
-https://github.com/Hassan-Shoayb/leafscan.git
-```
+   ```
+   https://github.com/Hassan-Shoayb/leafscan.git
+   ```
 
 2. Navigate to the project directory:
    ```
