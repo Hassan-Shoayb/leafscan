@@ -9,11 +9,11 @@ To detect and classify tomato diseases using the web application, follow these s
 
 1. **Access the Web Application:** click here [live Demo](https://leafscan.netlify.app//) to access the website where the tomato diseases detection application is hosted.
 
-2. **Upload an Image:** On the website's homepage, you'll find an option to upload an image. Click on the "Upload" button to select an image of a tomato plant that you want to analyze.
+2. **Upload an Image:** On the website's homepage, Click on the "Upload Image" button to select an image of a tomato plant that you want to analyze.
 
 3. **Image Guidelines:** For accurate predictions, make sure the uploaded image is clear and shows a single tomato leaf with visible symptoms (if any). The supported image formats are JPEG, PNG.
 
-4. **Submit the Image:** After selecting the image, click on the "detect" button to start the analysis.
+4. **Submit the Image:** After selecting the image, click on the "Detect" button to start the analysis.
 
 5. **Prediction Results:** Wait a few moments as the trained model processes the image. Once the analysis is complete, you will see the results displayed on the website.
 
