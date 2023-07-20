@@ -69,6 +69,20 @@ async function predict() {
 }
 
 // Add event listener to the predict button
+predictButton.addEventListener("click", async function() {
+    // Show the loader
+    loader.style.display = "block";
+
+    // Call the predict function to make predictions
+    await predict();
+
+    // Hide the loader and show the popup and overlay
+    loader.style.display = "none";
+    overlay.style.display = "block";
+    popup.style.display = "block";
+});
+
+// Add event listener to the predict button
 predictButton.addEventListener("click", function() {
     // Show the loader
     loader.style.display = "block";
@@ -79,7 +93,7 @@ predictButton.addEventListener("click", function() {
         loader.style.display = "none";
         overlay.style.display = "block";
         popup.style.display = "block";
-    }, 10000); // 5 seconds delay
+    }, 3000); // 2 seconds delay
 });
 
 
