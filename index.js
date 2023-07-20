@@ -84,8 +84,6 @@ predictButton.addEventListener("click", async function() {
 
 // Add event listener to the predict button
 predictButton.addEventListener("click", function() {
-    // Show the loader
-    loader.style.display = "block";
 
     // Delay showing the popup window
     setTimeout(function() {
