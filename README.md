@@ -2,16 +2,11 @@
 
 <!-- First Row -->
 <p align="center">
-  <img src="./disease/image1.JPG" width="100" alt="Image 1">
-  <img src="./disease/image2.JPG" width="100" alt="Image 2">
+  <img src="./disease/image1.JPG" width="200" alt="Image 1">
+  <img src="./disease/image2.JPG" width="200" alt="Image 2">
+  <img src="./disease/image3.JPG" width="200" alt="Image 3">
+  <img src="./disease/image4.JPG" width="200" alt="Image 4">
 </p>
-
-<!-- Second Row -->
-<p align="center">
-  <img src="./disease/image3.JPG" width="100" alt="Image 3">
-  <img src="./disease/image4.JPG" width="100" alt="Image 4">
-</p>
-
 
 This project aims to detect and classify tomato diseases using transfer learning with the InceptionV3 model. Transfer learning allows us to leverage the pre-trained InceptionV3 model's knowledge on a large dataset and fine-tune it for our specific task of tomato diseases detection. The trained model is deployed on a website using TensorFlow JavaScript, allowing users to upload images and receive predictions regarding the presence of diseases in tomatoes.
 
