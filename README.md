@@ -4,7 +4,7 @@ This project aims to detect and classify tomato diseases using transfer learning
 
 [live Demo](https://leafscan.netlify.app//)
 
-# Usag
+## Usage
 To detect and classify tomato diseases using the web application, follow these steps:
 
 1. **Access the Web Application:** click here [live Demo](https://leafscan.netlify.app//) access the website where the tomato diseases detection application is hosted.
@@ -28,7 +28,7 @@ The model's accuracy is influenced by the quality and composition of the images 
 
 Enjoy using the tomato diseases detection web application and feel free to provide feedback or report any issues you encounter. I am continuously working to improve the model's performance and enhance the user experience.
 
-# Requirements
+## Requirements
 To run this project, you will need the following:
 
 * Python (>= 3.6)
@@ -37,7 +37,7 @@ To run this project, you will need the following:
 * Keras (>= 2.0)
 * TensorFlow JavaScript (for website deployment)
 
-# Setup
+## Setup
 To run leafscan locally, follow these steps:
 1. Clone this repository to your local machine using the following command:
 ```
@@ -50,7 +50,7 @@ https://github.com/Hassan-Shoayb/leafscan.git
    ```
 3. Start the local development server and Open your web browser and visit the port to leafscan.
 
-# Technologies Used
+## Technologies Used
 Leafscan is built using the following technologies:
 
 1. TensorFlow
@@ -64,5 +64,5 @@ Leafscan is built using the following technologies:
 9. CSS
 10. Netlify (for deployment)
 
-# Contributing
+## Contributing
 Contributions to leafscan project are welcome and encouraged! If you have any ideas for improvements, new features, or bug fixes, please submit an issue or create a pull request.
