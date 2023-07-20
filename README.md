@@ -40,7 +40,7 @@ During the training process, the model goes through multiple epochs, where each 
 </p>
 Overall, the training process shows a steady improvement in the model's performance. The model successfully learns to classify tomato diseases with high accuracy, reaching nearly 100% accuracy on the training data and over 97% accuracy on the validation data by the end of training.
 
-### Epoch 3/15
+### Epoch 15/15
 
 * Training Loss: 0.00
 * Training Accuracy: 1.00
