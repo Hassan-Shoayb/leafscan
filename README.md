@@ -36,7 +36,7 @@ During the training process, the model goes through multiple epochs, where each 
 
 <p align="center">
 <img src="./images/Acc.png" width="400" alt="Image 2">
-<img src="./images/Acc.png" width="400" alt="Image 2">
+<img src="./images/Loss.png" width="400" alt="Image 2">
 </p>
 Overall, the training process shows a steady improvement in the model's performance. The model successfully learns to classify tomato diseases with high accuracy, reaching nearly 100% accuracy on the training data and over 97% accuracy on the validation data by the end of training.
 
