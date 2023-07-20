@@ -7,7 +7,7 @@ This project aims to detect and classify tomato diseases using transfer learning
 ## Usage
 To detect and classify tomato diseases using the web application, follow these steps:
 
-1. **Access the Web Application:** click here [live Demo](https://leafscan.netlify.app//) access the website where the tomato diseases detection application is hosted.
+1. **Access the Web Application:** click here [live Demo](https://leafscan.netlify.app//) to access the website where the tomato diseases detection application is hosted.
 
 2. **Upload an Image:** On the website's homepage, you'll find an option to upload an image. Click on the "Upload" button to select an image of a tomato plant that you want to analyze.
 
