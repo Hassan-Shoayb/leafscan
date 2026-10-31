@@ -1,19 +1,4 @@
-![leafscan](https://socialify.git.ci/Hassan-Shoayb/leafscan/image?description=1&descriptionEditable=AI-Powered%20Tomato%20Disease%20Detection%20Using%20Deep%20Learning&forks=1&issues=1&name=1&owner=1&stargazers=1&theme=Light)
-
-# AI-Powered Tomato Disease Detection Using Deep Learning
-
-**Academic, Research and Project Demonstration Report**
-
-**Presented by:** Hassan Shaibu
-
-**Academic Background:** B.Tech Computer Science and Engineering, G.D. Goenka University, India
-
-**Research Area:** Artificial Intelligence, Computer Vision and Deep Learning
-
-**Publication:** International Journal for Science and Advance Research in Technology (IJSART), Volume 11, Issue 12, December 2025
-
-
-#![leafscan](https://socialify.git.ci/Hassan-Shoayb/leafscan/image?#description=1&descriptionEditable=A%20project%20that%20demonstrates%20the%20application%20of%20machine%20learning%20and%20transfer%20learni# ng%20techniques%20to%20identify%20diseases%20in%20tomato%20leaves.&forks=1&issues=1&name=1&owner=1&stargazers=1&theme=Light)
+![leafscan](https://socialify.git.ci/Hassan-Shoayb/leafscan/image?description=1&descriptionEditable=A%20project%20that%20demonstrates%20the%20application%20of%20machine%20learning%20and%20transfer%20learning%20techniques%20to%20identify%20diseases%20in%20tomato%20leaves.&forks=1&issues=1&name=1&owner=1&stargazers=1&theme=Light)
 
 <!-- First Row -->
 <p align="center">
